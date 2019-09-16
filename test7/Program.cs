@@ -10,6 +10,7 @@ namespace test7
     {
         static void Main(string[] args)
         {
+            msfbksfs
            
         }
     }
