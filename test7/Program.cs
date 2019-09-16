@@ -10,8 +10,10 @@ namespace test7
     {
         static void Main(string[] args)
         {
-            msfbksfs
-           
+            Console.WriteLine("lalala");
+            Console.ReadLine(); 
+
+
         }
     }
 }
